@@ -1,2 +1,5 @@
 this is 1st line of fileone
+<<<<<<< HEAD
 this is the 2nd line
+=======
+>>>>>>> b961a8b474de45fec73aac4d6e1a199ce856c146
